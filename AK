@@ -7,4 +7,17 @@ We got this file We have to enter data through Locally.
 With help of git local Folder Whose have .git extension
 Second time push our code into github
 **************************************
+// Swipe the Variables
+int a=10;
+int b=20;
+int c=0;
+
+c=a; // 10
+a=b; // 20
+b=c; // 10
+
+System.out.println(a);
+System.out.println(b);
+
+
 
