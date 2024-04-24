@@ -3,3 +3,8 @@ So We have to access with file.
 So This file we have to Clone through Git Repository Through your Local Repository by Using git extension(.git)
 :x
 This is file we have edited through github repository.
+We got this file We have to enter data through Locally.
+With help of git local Folder Whose have .git extension
+Second time push our code into github
+**************************************
+
