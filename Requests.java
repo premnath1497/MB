@@ -67,4 +67,15 @@ public class Requests {
 		.then().statusCode(204)
 		.log().all();
 	}
+	
+        @Test(priority = 5)
+	public void deleteUser2() {
+		given()
+		
+		.when().delete("https://reqres.in/api/users/"+id)
+		
+		.then().statusCode(204)
+		.log().all();
+	}
+	
 }
