@@ -11,6 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class DropdownSeleniumWithoutSelectClass {
 
 	public static void main(String[] args) {
+		// This is Dropdown Handle Code Without Select class
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\1\\Desktop\\Excel\\chromedriver-win64\\chromedriver.exe");
 
